@@ -1,0 +1,123 @@
+/* Layout */
+
+body {
+    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#ebebeb;
+	margin:0;
+	padding:0;
+	background:#777;
+	width:980px;
+}
+
+header {
+    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+	margin:10px;
+	padding-top: 40px;
+	text-align: center;
+	background:#ebebeb;
+	width:960px;
+	height:60px;
+}
+
+nav {
+    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+	margin:10px;
+	padding-top: 40px;
+	text-align: center;
+	background:#ebebeb;
+	width:960px;
+	height:60px;
+}
+
+section {
+    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+	margin:10px 10px 20px 10px;
+	text-align: center;
+	background:#ebebeb;
+	padding-top: 35px;
+	width:495px;
+	height:250px;
+	float: left;
+}
+
+article {
+    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#ebebeb;
+	margin: 10px;
+	text-align: center;
+	background:#777;
+	padding-top: 25px;
+	width:475px;
+	height:185px;
+	float:left;
+}
+
+h1 {
+    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+	margin: 10px;
+	text-align: center;
+	background:#ebebeb;
+	padding-top: 20px;
+	width:455px;
+	height:40px;
+	float:left;
+}
+
+p {
+    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+	margin: 10px;
+	text-align: center;
+	background:#ebebeb;
+	padding-top: 20px;
+	width:455px;
+	height:40px;
+	float:left;
+}
+
+aside {
+    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+	margin:10px 10px 20px 10px;
+	text-align: center;
+	background:#ebebeb;
+	padding-top: 120px;
+	width:445px;
+	height:165px;
+	float: right;
+}
+
+.footer {
+	clear: left;
+	font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+	margin:20px 10px 10px 10px;
+	text-align: center;
+	background:#ebebeb;
+	padding-top: 40px;
+	width:960px;
+	height:60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
