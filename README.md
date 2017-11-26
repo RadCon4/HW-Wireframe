@@ -10,20 +10,19 @@ The portfolio site consists of 3 html documents, two css files (including the Me
 ### Folder Structure
 ***
 
- * [tree-md](./tree-md)
- * [dir2](./dir2)
-   * [file21.ext](./dir2/file21.ext)
-   * [file22.ext](./dir2/file22.ext)
-   * [file23.ext](./dir2/file23.ext)
- * [dir1](./dir1)
-   * [file11.ext](./dir1/file11.ext)
-   * [file12.ext](./dir1/file12.ext)
- * [file_in_root.ext](./file_in_root.ext)
- * [README.md](./README.md)
- * [dir3](./dir3)
+ * index.html
+ * contact.html
+ * portfolio.html
+ * assets
+   * css
+     * reset.css
+     * style.css
+   * images
 
 
 ### Notes
 ***
 
 A folder for a simple wireframe page with styling was also included in this repo.
+
+Conrad Harrison © 2017. 
