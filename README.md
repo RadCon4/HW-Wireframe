@@ -9,10 +9,7 @@ The portfolio site consists of 3 html documents, two css files (including the Me
 
 ### Folder Structure
 ***
-$ ./tree-md .
-# Project tree
 
-.
  * [tree-md](./tree-md)
  * [dir2](./dir2)
    * [file21.ext](./dir2/file21.ext)
