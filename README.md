@@ -10,14 +10,14 @@ The portfolio site consists of 3 html documents, two css files (including the Me
 ### Folder Structure
 ***
 
- *-- index.html
- *-- contact.html
- *-- portfolio.html
- *-- assets
-     *-- images
-     *-- css
-         *-- reset.css
-         *-- style.css
+ * index.html
+ * contact.html
+ * portfolio.html
+ * assets
+     * images
+     * css
+         * reset.css
+         * style.css
 
 ### Notes
 ***
