@@ -1,7 +1,7 @@
 /* Layout */
 
 body {
-    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-family:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	color:#ebebeb;
 	margin:0;
 	padding:0;
@@ -10,8 +10,7 @@ body {
 }
 
 header {
-    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	color:#777;
+    color:#777;
 	margin:10px;
 	padding-top: 40px;
 	text-align: center;
@@ -21,8 +20,7 @@ header {
 }
 
 nav {
-    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	color:#777;
+    color:#777;
 	margin:10px;
 	padding-top: 40px;
 	text-align: center;
@@ -32,8 +30,7 @@ nav {
 }
 
 section {
-    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	color:#777;
+    color:#777;
 	margin:10px 10px 20px 10px;
 	text-align: center;
 	background:#ebebeb;
@@ -44,8 +41,7 @@ section {
 }
 
 article {
-    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	color:#ebebeb;
+    color:#ebebeb;
 	margin: 10px;
 	text-align: center;
 	background:#777;
@@ -56,8 +52,7 @@ article {
 }
 
 h1 {
-    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	color:#777;
+    color:#777;
 	margin: 10px;
 	text-align: center;
 	background:#ebebeb;
@@ -68,8 +63,7 @@ h1 {
 }
 
 p {
-    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	color:#777;
+    color:#777;
 	margin: 10px;
 	text-align: center;
 	background:#ebebeb;
@@ -80,8 +74,7 @@ p {
 }
 
 aside {
-    font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	color:#777;
+    color:#777;
 	margin:10px 10px 20px 10px;
 	text-align: center;
 	background:#ebebeb;
@@ -93,7 +86,6 @@ aside {
 
 .footer {
 	clear: left;
-	font:normal 18px Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	color:#777;
 	margin:20px 10px 10px 10px;
 	text-align: center;
